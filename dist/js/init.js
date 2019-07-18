@@ -1,8 +1,3 @@
-/*
- * Copyright (c) 2017 Marketify
- * Author: Marketify
- * This file is made for CURRENT TEMPLATE
-*/
 
 
 jQuery(document).ready(function(){
