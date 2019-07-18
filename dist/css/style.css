@@ -1,8 +1,7 @@
 @charset "utf-8";
 /*
-/*	Copyright (c) 2018 Marketify
-/*	Author: Marketify
-/*	This file is made for CURRENT TEMPLATE
+/*	
+/*
 
 
 	01) EDINA BASE
@@ -121,7 +120,7 @@ img.svg{
 }
 .edina_tm_header.scroll .edina_tm_navigation_wrap .menu > ul > li a{color: #fff;}
 .edina_tm_header.scroll .edina_tm_navigation_wrap .social_icons_wrap > ul > li a{color: #fff;}
-.edina_tm_header.scroll .edina_tm_navigation_wrap .menu > ul > li a:hover{color: #ed2629;}
+.edina_tm_header.scroll .edina_tm_navigation_wrap .menu > ul > li a:hover{color: #5ab8ff;}
 .edina_tm_header.scroll .edina_tm_navigation_wrap .social_icons_wrap > ul > li a:hover{color: #ed2629;}
 .edina_tm_navigation_wrap,
 .edina_tm_navigation_wrap .navigation_inner{
@@ -186,7 +185,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.edina_tm_navigation_wrap .menu > ul > li a:hover{color: #ed2629;}
+.edina_tm_navigation_wrap .menu > ul > li a:hover{color:rgba(179, 0, 130, 0.96);}
 .edina_tm_navigation_wrap .social_icons_wrap{
 	position: absolute;
 	right: 0px;
@@ -1673,7 +1672,8 @@ img.svg{
 	margin-bottom: 10px;
 }
 .edina_tm_universal_box_wrap .hero_title.homepage_third span{
-	color: #ed2629;
+	/* color: #ed2629; */
+	color:rgba(179, 0, 130, 0.96);
 	font-size: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
